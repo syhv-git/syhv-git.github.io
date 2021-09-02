@@ -45,22 +45,20 @@
       "keywords": [
         "System Security/Information Assurance",
         "Digital Forensics",
-        "Red Team",
-        "Blue Team",
+        "Linux-based hacking software",
         "Purple Team"
       ]
     },
     {
       "name": "Quantum Mechanics",
       "keywords": [
-        "Quantum mechanics",
+        "Philosophy and formalizations of Quantum Mechanics",
         "Quantum computing"
       ]
     },
     {
       "name": "Piano",
       "keywords": [
-        "Piano"
       ]
     },
     {
@@ -81,7 +79,9 @@
         "C++",
         "Java",
         "Javascript",
-        "Common Lisp"
+        "Common Lisp",
+        "Japanese",
+        "Mandarin Chinese"
       ]
     },
     {
