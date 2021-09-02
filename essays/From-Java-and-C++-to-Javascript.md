@@ -34,7 +34,7 @@ The programing language would initialize total to be 0 without a direct assignme
 (define total 0) //for a LISP representation of the above
 ```
 
-Another connection between LISP and Javascript is the use of Lambda procedures in LISP. Lambda is the process of creating a procedure within a procedure, without having to directly define the procedure as a standalone definition. This correlates to the ability to create functions within functions in Javascript. The function created within the scope of another function cannot be called by any other procedure, and this is fundamental to all languages which fall under the functional programing paradigm. 
+Another connection between LISP and Javascript is the use of Lambda procedures in LISP. Lambda is the process of creating a procedure within a procedure, without having to directly define the procedure as a standalone definition. This correlates to the ability to create functions within functions in Javascript. The function created within the scope of another function cannot be called by any other process outside of the defined function's scope, and this is fundamental to all languages which fall under the functional programing paradigm. 
 
 Another aspect in Javascript which is difficult to fluently incorporate into my formalizations is creating arrays and objects to utilize multiple types, rather than restricted to only one defined type. In the same sense as the above problem, arrays in Javascript are not defined as:
   
