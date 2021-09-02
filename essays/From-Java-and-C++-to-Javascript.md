@@ -65,4 +65,3 @@ This is reminiscent of objects constructed from classes in Java and C, but we do
 ## Conclusion
 
 Overall, my understanding of Javascript is minimal, but the usefulness is clear. This programing language has helped me expand my mind in new ways, and make connections between knowledge I already have. Javascript should not be a programmers first language, but is essential to learn, as it brings many unique aspects to a coder’s toolkit. It also enhances abstract thinking when solving problems in ways that languages like Java and C cannot offer.
-
