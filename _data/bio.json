@@ -29,13 +29,6 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "YouTube",
-        "Reddit"
-      ]
-    },
-    {
       "name": "Cybersecurity",
       "keywords": [
         "System Security/Information Assurance",
@@ -62,6 +55,16 @@
         "Alto Saxophone",
         "Tenor Saxophone",
         "Baritone Saxophone"
+      ]
+    },
+    {
+      "name": "Outrigger canoe paddling",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Videogames",
+      "keywords": [
       ]
     }
   ],
