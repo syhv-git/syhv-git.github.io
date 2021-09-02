@@ -34,7 +34,7 @@ The programing language would initialize total to be 0 without a direct assignme
 (define total 0) //for a LISP representation of the above
 ```
 
-As stated in the beginning of this section, another connection between LISP and Javascript is the procedure Lambda in LISP. Lambda is the process of creating a procedure within a procedure, without having to directly define the procedure as a standalone definition. This correlates to the ability to create functions within functions in Javascript, called arrow functions. The arrow function is created within the scope of a defined function, and cannot be called by any other process outside of the defined functions scope. This is fundamental to all languages which fall under the functional programing paradigm.
+As stated in the beginning of this section, another connection between LISP and Javascript is the procedure Lambda in LISP. Lambda is the process of creating a procedure within a procedure, without having to define the procedure with a name. This correlates to the ability to create functions within functions in Javascript, called arrow functions. The arrow function is another way to create a function in Javascript and is assigned to a variable. This function can be created within the scope of a defined function, and this makes it so it cannot be called by any other process outside of the defined functions scope. This is fundamental to all languages which fall under the functional programing paradigm.
 
 ```
 //Javascript function for x^4
