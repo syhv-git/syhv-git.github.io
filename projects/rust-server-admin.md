@@ -5,7 +5,7 @@ image: images/Rust.jpg
 title: Rust Server Admin
 permalink: projects/rust-server-admin
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-02
+date: 2018-11-15
 labels:
   - Video games
 summary: My experience with being a Rust server moderator and admin.
