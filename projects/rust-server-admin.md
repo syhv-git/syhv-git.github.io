@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Rust.jpg
 title: Rust Server Admin
-permalink: projects/rust-server-admin.md
+permalink: projects/rust-server-admin
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
 labels:
