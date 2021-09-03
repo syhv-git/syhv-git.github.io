@@ -4,7 +4,7 @@ type: essay
 title: What is a computer?
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-28
-published: false
+published: true
 labels:
   - Learning
   - Mathematics
