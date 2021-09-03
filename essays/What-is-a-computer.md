@@ -13,7 +13,7 @@ labels:
 
 | Table of Contents |
 | :--- |
-| [I. Introduction](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#i-introduction) |
+| [I. Introduction](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer#i-introduction) |
 | [II. What is a Computer?](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#ii-what-is-a-computer) |
 | - [*A. History of Modern Computers*](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#a-history-of-modern-computers) |
 | - [*B. Hardware*](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#b-hardware) |
