@@ -23,12 +23,11 @@ This paper was originally written for the Fall 2020 ICS 222 course at the Univer
 
 A computer is defined as, “a programmable, usually electronic, device that can store, retrieve, and process data,” by Merriam-Webster \[1, References], and provides an idea of what a computer is, but this definition is deceptively definitive {1}. The abacus is the oldest tool found across ancient civilizations to aid people in computational tasks, dating back as early as 2700 BC, but it does not fit the description above. Determining whether an abacus is a computer can constitute its own paper, but can be described simply as a tool for arithmetic calculations, and requires a user to produce functionality. The abacus is capable of storing and processing data, but it is not implicitly programmable [Appendix A]. It is left to the user to execute instructions and interpret the output, which shows that it does not fit the definition of a computer. However, a modern computer can also be described as a tool which is unable to do any computation until a user performs actions. Thus, the definition above is fragmentary and the abacus should be regarded as the most primitive computer. The definition contains a time-flow fallacy {2}, which is band-aided by the generalized injection, “usually electronic.” This fallacy is built on human centricity, and cannot be fixed by adding a statement, but should be restructured entirely to solve the problem . Human centricity, whether it be in terms of species, or something else such as time, is unfortunately inevitable, but should be recognized as it can create false imagery and ideologies. A new definition can thus be derived as, a device which can process data through storage and manipulation, based on any formalized task.
 
-
-| {1} | While dictionaries are essential to language, natural language evolves over time. The definition seems to make sense while also creating confusion when applied. The following ideas may seem overly argumentative, but is meant to showcase the fact that everything can, and should, be questioned. If you follow descriptions and dictation precisely, you can start to deconstruct things within the guidelines established, and use this to build a new perspective on the topic. My goal is to help break barriers the reader may unknowingly hold, in order to advance learning abilities, think critically, and ask questions. |
+| # | Footnote |
 | --- | --- |
+| {1} | While dictionaries are essential to language, natural language evolves over time. The definition seems to make sense while also creating confusion when applied. The following ideas may seem overly argumentative, but is meant to showcase the fact that everything can, and should, be questioned. If you follow descriptions and dictation precisely, you can start to deconstruct things within the guidelines established, and use this to build a new perspective on the topic. My goal is to help break barriers the reader may unknowingly hold, in order to advance learning abilities, think critically, and ask questions. |
 | {2} | A time-flow fallacy is a type of logical fallacy which describes a bias to the flow of time being contextualized around the perspective of the observer. This fallacy then requires all subsequent observers to make the same assumption regardless of events occurring prior to the fallacious argument. For the definition, the fallacy lies in the description of what a computer of modern times is capable of, however it does not sufficiently describe computational devices used prior to modern technology. Logical fallacies are vital to understand as these can appear in formal proofing, which would render the proof inconsistent or completely false. |
 | {3} | We can draw a parallel here to programing, as when a function has a logical problem, simply adding or removing syntax does not remove the problem. Even if the problem disappears after this, one must structurally redesign the logistics to truly solve the problem. If code is simply band-aided, these flaws have the potential to be exploited. |
-
 
 ### *A. History of Modern Computers*
 
@@ -38,9 +37,9 @@ One of the first fully electronic computers, the Harvard Mark I, was mammoth in 
 
 The first versions of computers intended for personal use were created in the early to mid-1970s, however only computer enthusiasts were able to get full functionality out of the machines \[7, References]. This is most apparent with the release of the Altair and the Apple I. The release of the Apple II is believed to be the first successful mass-produced personal computer system; however, it still required the user to have a good understanding of computer science to be used. In present times, computers are everywhere, and they are consistently becoming more powerful. There are two aspects that make up a computer, the hardware and software, which in tandem allow modern computers to function and access resources like the World Wide Web, or other information services.
 
-```
-{4} The Church-Turing thesis is based on Kurt Gödel’s incompleteness theorem. Gödel’s incompleteness theorem is complex but very interesting. It concludes that a formal language contains axioms which are unprovable, which implies the system is incomplete. The Church-Turing thesis is the concept that a function can be calculated by an effective method if and only if it is computable by a Turing Machine. These concepts are fundamental to computability theory, which is touched upon in Appendix D.
-```
+| # | Footnote |
+| --- | --- |
+| {4} | The Church-Turing thesis is based on Kurt Gödel’s incompleteness theorem. Gödel’s incompleteness theorem is complex but very interesting. It concludes that a formal language contains axioms which are unprovable, which implies the system is incomplete. The Church-Turing thesis is the concept that a function can be calculated by an effective method if and only if it is computable by a Turing Machine. These concepts are fundamental to computability theory, which is touched upon in Appendix D. |
 
 ### *B. Hardware*
 
@@ -66,9 +65,9 @@ A program in terms of computer science is a formalized sequence of computations 
    
 There are many programing paradigms to describe a programing language's purpose, and each language can fall under multiple categories. However, each paradigm serves a different purpose, and manipulates data differently from another. One central concept across all paradigms is the use of variables to store data. With this ability, we can start to compound variables together, along with arithmetic and logical operations, to allow more complex computations to be created. For example, Object-Oriented programing, OOP, is based on the idea of manipulating sets of datum, called objects, which the developer assigns to variables.  OOP also utilizes data structures to organize and store data to be manipulated by the program. These objects can also be compounded to create more advanced data structures than the ones OOP languages innately have. Data structures and program hierarchy are essential to understand for all programmers, and finding resources is quite easy for these topics. OOP languages such as Python and Java are usually a programmer’s first language. This is because it allows the person to learn how to program without having to understand complex tasks such as memory allocation and evaluation strategies. Developers should be able to recognize a languages paradigm, and the differences among all paradigms, to ensure it is suitable for solving the problem in mind. This will also help to diversify one’s abilities and allocate time spent learning effectively.
 
-```
-{5} The information in the Appendix is meant to provide a general overview of a concept or concepts, and spark interest in the reader. I have kept formalizations and lemma out of these appendices to provide a welcoming environment for readers new to computer science. The concepts described are meant to be further researched by the reader to gain a critical and systematic understanding of Discrete Mathematics and Algorithms. I suggest, Discrete Mathematics and Its Applications, by Kenneth Rosen, and, Introduction to Algorithms, by four authors, CLRS. These teach the fundamentals, and were used as a resource for Appendices 1 – 4.
-```
+| # | Footnote |
+| --- | --- |
+| {5} | The information in the Appendix is meant to provide a general overview of a concept or concepts, and spark interest in the reader. I have kept formalizations and lemma out of these appendices to provide a welcoming environment for readers new to computer science. The concepts described are meant to be further researched by the reader to gain a critical and systematic understanding of Discrete Mathematics and Algorithms. I suggest, Discrete Mathematics and Its Applications, by Kenneth Rosen, and, Introduction to Algorithms, by four authors, CLRS. These teach the fundamentals, and were used as a resource for Appendices 1 – 4. |
 
 ## Appendix B
 
@@ -80,9 +79,10 @@ The concept of runtime is a fundamental tool to prove efficiency. This is known 
 
 This concept can be best described between the graphical representation of n and √n. For small n values, the root function is larger than the linear function, but after n0¬, n is the upper bound of √n {6}. In this case, we could say T(√n) = o(n), meaning the runtime of √n is loosely bounded above by n. This is because after n0, the function √n and n will never be equivalent, and the upper bounded function has a degree which is higher than the function being evaluated. We could also use Big-O for the evaluation, however we cannot reliably use little-o evaluation for Big-O evaluations, unless the function is proven to be a degree larger than the runtime being evaluated. We can use Big-O and Big-Ω to find Θ if and only if Big-O is related to Big-Ω by a constant multiplier. There is a lot which is not covered here, but time complexity is critical to understand in order to analyze program runtime. One must also have a good understanding of Riemann Sums to analyze programs that contain loops and recursion. There is another topic which is closely related to time complexity known as space complexity. Space complexity utilizes the same functions, but describe how much memory a program takes up.
 
-```
-{6} This may raise some confusion as n should only be integer values, but if there is some defined constant which modifies the runtime of the 'n' function, this constant is simplified to O(1). For example, O(1000 * √n) is simplified to O(√n), as 1000 is a defined constant value. This also means that given a function where some code block that runs n times, then 1000 constant procedures follow, will have O(n) runtime since O(n) + O(1000) = O(n) + O(1) = O(n).
-```
+| # | Footnote |
+| --- | --- |
+| {6} | This may raise some confusion as n should only be integer values, but if there is some defined constant which modifies the runtime of the 'n' function, this constant is simplified to O(1). For example, O(1000 * √n) is simplified to O(√n), as 1000 is a defined constant value. This also means that given a function where some code block that runs n times, then 1000 constant procedures follow, will have O(n) runtime since O(n) + O(1000) = O(n) + O(1) = O(n). |
+
 
 ## Appendix D
 
@@ -111,9 +111,10 @@ https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 https://www.youtube.com/c/Trevtutor/featured 
 https://www.youtube.com/c/EasyTheory
 
-```
-{7} I have provided links to readings on specifics topics, and links to YouTube channels which teach mathematics required for the readings. Many of the readings cover advanced concepts in discrete mathematics, so one should already have learned the fundamentals before attempting these. All of these resources were used to learn and many as a reference for this paper. They are ordered as they appear across the text.
-```
+| # | Footnote |
+| --- | --- |
+| {7} | I have provided links to readings on specifics topics, and links to YouTube channels which teach mathematics required for the readings. Many of the readings cover advanced concepts in discrete mathematics, so one should already have learned the fundamentals before attempting these. All of these resources were used to learn and many as a reference for this paper. They are ordered as they appear across the text. |
+
 
 ## References
 
