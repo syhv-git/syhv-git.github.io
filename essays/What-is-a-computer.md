@@ -38,9 +38,7 @@ A computer is defined as, “a programmable, usually electronic, device that can
 
 | **{1}** | **While dictionaries are essential to language, natural language evolves over time. The definition seems to make sense while also creating confusion when applied. The following ideas may seem overly argumentative, but is meant to showcase the fact that everything can, and should, be questioned. If you follow descriptions and dictation precisely, you can start to deconstruct things within the guidelines established, and use this to build a new perspective on the topic. My goal is to help break barriers the reader may unknowingly hold, in order to advance learning abilities, think critically, and ask questions.** |
 | :--- | :--- |
-
 | {2} | A time-flow fallacy is a type of logical fallacy which describes a bias to the flow of time being contextualized around the perspective of the observer. This fallacy then requires all subsequent observers to make the same assumption regardless of events occurring prior to the fallacious argument. For the definition, the fallacy lies in the description of what a computer of modern times is capable of, however it does not sufficiently describe computational devices used prior to modern technology. Logical fallacies are vital to understand as these can appear in formal proofing, which would render the proof inconsistent or completely false. |
-
 | {3} | We can draw a parallel here to programing, as when a function has a logical problem, simply adding or removing syntax does not remove the problem. Even if the problem disappears after this, one must structurally redesign the logistics to truly solve the problem. If code is simply band-aided, these flaws have the potential to be exploited. |
 
 ### *A. History of Modern Computers*
