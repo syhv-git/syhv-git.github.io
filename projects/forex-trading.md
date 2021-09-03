@@ -5,7 +5,7 @@ image: images/forex-chart.jpeg
 title: Forex Trading
 permalink: projects/forex-trading
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-02
+date: 2019-03-01
 labels:
   - Forex Trading
   - MQL4
