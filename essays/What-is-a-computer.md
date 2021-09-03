@@ -116,6 +116,8 @@ A relatively new branch of mathematics, known as category theory, is becoming fu
 
 ## Resources {6}
 
+I have provided links to readings on specific topics, and links to YouTube channels which teach the mathematics required for the readings. Many of the readings cover advanced concepts in discrete mathematics, so one should already have learned the fundamentals before attempting these. All of these resources were used to learn and many as a reference for this paper. They are ordered as they appear across the text.
+
 https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0077
 
 https://en.wikipedia.org/wiki/Automata_theory
@@ -139,10 +141,6 @@ https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 https://www.youtube.com/c/Trevtutor/featured 
 
 https://www.youtube.com/c/EasyTheory
-
-|  |
-| :--- |
-| {6} I have provided links to readings on specifics topics, and links to YouTube channels which teach mathematics required for the readings. Many of the readings cover advanced concepts in discrete mathematics, so one should already have learned the fundamentals before attempting these. All of these resources were used to learn and many as a reference for this paper. They are ordered as they appear across the text. |
 
 ## References
 
