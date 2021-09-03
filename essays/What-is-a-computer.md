@@ -4,7 +4,7 @@ type: essay
 title: What is a computer?
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-28
-published: false
+published: true
 labels:
   - Learning
   - Mathematics
@@ -23,6 +23,7 @@ labels:
 | [Appendices](https://syhv-git.github.io/essays/What-is-a-computer.html#appendices) |
 | [Resources](https://syhv-git.github.io/essays/What-is-a-computer.html#resources) |
 | [References](https://syhv-git.github.io/essays/What-is-a-computer.html#references) |
+
 
 **_Abstract—_ Everyone living in the modern world has utilized a computer at some point in time, but have you ever stopped to wonder, "what is a computer?" This paper covers the concept of what a computer is and how one functions. Computers are everywhere, but many people will be puzzled if you ask them this seemingly simple question. They will probably show you their phone, or another gadget or tool and say, "well this is a computer," but what classifies these items as computers? In this paper, a proper definition of a computer is analyzed, as defined by the well-known Merriam-Webster dictionary, and then deconstruct this definition to try and find what a computer is. Following the analysis of the definition, the paper covers a brief history of modern computers, and along the way, find what would be defined as a computer in the modern terminology. After describing the history in terms of pioneers, we analyze what components a modern computer system is comprised of by standards systems of 2020. Next, the topic of computers in everyday life, and the importance of cybersecurity are examined. The paper ends in a philosophical, open-ended way meant to evoke ethical and existential ideas in the reader. The theme across most paragraphs is based on human centrism and problems that follow from this fallacy. By the end, the reader will hopefully obtain a new perspective on computational systems and the future of computer science.**
 
