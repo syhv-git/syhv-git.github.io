@@ -80,7 +80,7 @@ I hope this ending raises many questions about existence and omnipotent beings. 
 
 ## Appendices
 
-The Appendices are meant to provide a general overview of a concept or concepts, and spark interest in the reader to research and learn more than the basic concepts described. I have kept formalizations and lemma out of these appendices to provide a welcoming environment for readers new to computer science, or who are intimidated by advanced mathematics. The concepts described are meant to be further researched by the reader to gain a critical and comprehensive understanding of Discrete Mathematics and Algorithms. I suggest, Discrete Mathematics and Its Applications, by Kenneth Rosen, and, Introduction to Algorithms, by four authors, CLRS. These teach fundamental concepts thuroughly, and were used as resources for Appendices 1 – 4.
+The Appendices are meant to provide a general overview of a concept or concepts, and spark interest in the reader to research and learn more than the basic concepts described. I have kept formalizations and lemma out of these appendices to provide a welcoming environment for readers new to computer science, or who are intimidated by advanced mathematics. The concepts described are meant to be further researched by the reader to gain a critical and comprehensive understanding of Discrete Mathematics and Algorithms. I suggest, Discrete Mathematics and Its Applications, by Kenneth Rosen, and, Introduction to Algorithms, by four authors, CLRS. These teach fundamental concepts thoroughly, and were used as resources for Appendices 1 – 4.
 
 ### Appendix A
 
