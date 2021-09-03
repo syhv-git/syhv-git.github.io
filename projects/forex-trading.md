@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/forex-chart.jpeg
-title: Forex Trading
+title: Forex trading
 permalink: projects/forex-trading
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-01
