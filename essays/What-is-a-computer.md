@@ -15,10 +15,10 @@ labels:
 | :--- |
 | [I. Introduction](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#i-introduction) |
 | [II. What is a Computer?](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#ii-what-is-a-computer) |
-|   [A. History of Modern Computers](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#a-history-of-modern-computers) |
-|   [B. Hardware](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#b-hardware) |
-|   [C. Software](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#c-software) |
-|   [D. Modern Computers and Security](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#d-modern-computers-and-security) |
+| - [A. History of Modern Computers](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#a-history-of-modern-computers) |
+| - [B. Hardware](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#b-hardware) |
+| - [C. Software](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#c-software) |
+| - [D. Modern Computers and Security](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#d-modern-computers-and-security) |
 | [III. Conclusion](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#iii-conclusion) |
 | [Appendices](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#appendices) |
 | [Resources](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#resources) |
