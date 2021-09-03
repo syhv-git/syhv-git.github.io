@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Rust.jpg
-title: Rust Server Admin
+title: Rust server admin
 permalink: projects/rust-server-admin
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-15
