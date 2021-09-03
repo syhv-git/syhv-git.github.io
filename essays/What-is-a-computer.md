@@ -13,16 +13,16 @@ labels:
 
 | Table of Contents |
 | --- |
-| [I. Introduction](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#i-introduction) |
-| [II. What is a Computer?](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#ii-what-is-a-computer) |
-| [A. History of Modern Computers](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#a-history-of-modern-computers) |
-| [B. Hardware](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#b-hardware) |
-| [C. Software](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#c-software) |
-| [D. Modern Computers and Security](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#d-modern-computers-and-security) |
-| [III. Conclusion](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#iii-conclusion) |
-| [Appendices](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#appendices) |
-| [Resources](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#resources) |
-| [References](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#references) |
+| ## [I. Introduction](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#i-introduction) |
+| ## [II. What is a Computer?](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#ii-what-is-a-computer) |
+| ### [A. History of Modern Computers](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#a-history-of-modern-computers) |
+| ### [B. Hardware](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#b-hardware) |
+| ### [C. Software](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#c-software) |
+| ### [D. Modern Computers and Security](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#d-modern-computers-and-security) |
+| ## [III. Conclusion](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#iii-conclusion) |
+| ## [Appendices](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#appendices) |
+| ## [Resources](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#resources) |
+| ## [References](https://github.com/syhv-git/syhv-git.github.io/blob/master/essays/What-is-a-computer.md#references) |
 
 ***Abstract—*** **Everyone living in the modern world has utilized a computer at some point in time, but have you ever stopped to wonder, "what is a computer?" This paper covers the concept of what a computer is and how one functions. Computers are everywhere, but many people will be puzzled if you ask them this seemingly simple question. They will probably show you their phone, or another gadget or tool and say, "well this is a computer," but what classifies these items as computers? In this paper, a proper definition of a computer is analyzed, as defined by the well-known Merriam-Webster dictionary, and then deconstruct this definition to try and find what a computer is. Following the analysis of the definition, the paper covers a brief history of modern computers, and along the way, find what would be defined as a computer in the modern terminology. After describing the history in terms of pioneers, we analyze what components a modern computer system is comprised of by standards systems of 2020. Next, the topic of computers in everyday life, and the importance of cybersecurity are examined. The paper ends in a philosophical, open-ended way meant to evoke ethical and existential ideas in the reader. The theme across most paragraphs is based on human centrism and problems that follow from this fallacy. By the end, the reader will hopefully obtain a new perspective on computational systems and the future of computer science.**
 
