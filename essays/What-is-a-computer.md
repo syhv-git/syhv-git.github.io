@@ -103,25 +103,20 @@ A relatively new branch of mathematics, known as category theory, is becoming fu
 
 ## Footnotes
 
-<p><span id="footnote-1">
-  <sup>1</sup> While dictionaries are essential to language, natural language evolves over time. The definition seems to make sense while also creating confusion when applied. The following ideas may seem overly argumentative, but is meant to showcase the fact that everything can, and should, be questioned. If you follow descriptions and dictation precisely, you can start to deconstruct things within the guidelines established, and use this to build a new perspective on the topic. My goal is to help break barriers the reader may unknowingly hold, in order to advance learning abilities, think critically, and ask questions ([Back](https://syhv-git.github.io/essays/What-is-a-computer.html#ii-what-is-a-computer)).
-</span></p>
+<span id="footnote-1">
+  <sup>1</sup> While dictionaries are essential to language, natural language evolves over time. The definition seems to make sense while also creating confusion when applied. The following ideas may seem overly argumentative, but is meant to showcase the fact that everything can, and should, be questioned. If you follow descriptions and dictation precisely, you can start to deconstruct things within the guidelines established, and use this to build a new perspective on the topic. My goal is to help break barriers the reader may unknowingly hold, in order to advance learning abilities, think critically, and ask questions</span> ([Back](https://syhv-git.github.io/essays/What-is-a-computer.html#ii-what-is-a-computer)).
 
-<p><span id="footnote-2">
-  <sup>2</sup> A time-flow fallacy is a type of logical fallacy which describes a bias to the flow of time being contextualized around the perspective of the observer. This fallacy then requires all subsequent observers to make the same assumption regardless of events occurring prior to the fallacious argument. For the definition, the fallacy lies in the description of what a computer of modern times is capable of, however it does not sufficiently describe computational devices used prior to modern technology. Logical fallacies are vital to understand as these can appear in formal proofing, which would render the proof inconsistent or completely false ([Back](https://syhv-git.github.io/essays/What-is-a-computer.html#ii-what-is-a-computer)).
-</span></p>
+<span id="footnote-2">
+  <sup>2</sup> A time-flow fallacy is a type of logical fallacy which describes a bias to the flow of time being contextualized around the perspective of the observer. This fallacy then requires all subsequent observers to make the same assumption regardless of events occurring prior to the fallacious argument. For the definition, the fallacy lies in the description of what a computer of modern times is capable of, however it does not sufficiently describe computational devices used prior to modern technology. Logical fallacies are vital to understand as these can appear in formal proofing, which would render the proof inconsistent or completely false</span> ([Back](https://syhv-git.github.io/essays/What-is-a-computer.html#ii-what-is-a-computer)).
 
-<p><span id="footnote-3">
-  <sup>3</sup> We can draw a parallel here to programing, as when a function has a logical problem, simply adding or removing syntax does not remove the problem. Even if the problem disappears after this, one must structurally redesign the logistics to truly solve the problem. If code is simply band-aided, these flaws have the potential to be exploited ([Back](https://syhv-git.github.io/essays/What-is-a-computer.html#ii-what-is-a-computer)).
-</span></p>
+<span id="footnote-3">
+  <sup>3</sup> We can draw a parallel here to programing, as when a function has a logical problem, simply adding or removing syntax does not remove the problem. Even if the problem disappears after this, one must structurally redesign the logistics to truly solve the problem. If code is simply band-aided, these flaws have the potential to be exploited</span> ([Back](https://syhv-git.github.io/essays/What-is-a-computer.html#ii-what-is-a-computer)).
 
-<p><span id="footnote-4">
-  <sup>4</sup> The Church-Turing thesis is based on Kurt Gödel’s incompleteness theorem. Gödel’s incompleteness theorem is complex but very interesting. It concludes that a formal language contains axioms which are unprovable, which implies the system is incomplete. The Church-Turing thesis is the concept that a function can be calculated by an effective method if and only if it is computable by a Turing Machine. These concepts are fundamental to computability theory, which is touched upon in Appendix D ([Back](https://syhv-git.github.io/essays/What-is-a-computer.html#a-history-of-modern-computers)).
-</span></p>
+<span id="footnote-4">
+  <sup>4</sup> The Church-Turing thesis is based on Kurt Gödel’s incompleteness theorem. Gödel’s incompleteness theorem is complex but very interesting. It concludes that a formal language contains axioms which are unprovable, which implies the system is incomplete. The Church-Turing thesis is the concept that a function can be calculated by an effective method if and only if it is computable by a Turing Machine. These concepts are fundamental to computability theory, which is touched upon in Appendix D</span> ([Back](https://syhv-git.github.io/essays/What-is-a-computer.html#a-history-of-modern-computers)).
 
-<p><span id="footnote-5">
-  <sup>5</sup> This may raise some confusion as n should only be integer values, but if there is some defined constant which modifies the runtime of the 'n' function, this constant is simplified to O(1). For example, O(1000 * √n) is simplified to O(√n), as 1000 is a defined constant value. This also correlates to; given a function with a code block that runs n times, then 1000 constant procedures before or after the code block, the run time will be O(n) since O(n) + O(1000) = O(n) + O(1) = O(n) ([Back](https://syhv-git.github.io/essays/What-is-a-computer.html#appendix-c)).
-</span></p>
+<span id="footnote-5">
+  <sup>5</sup> This may raise some confusion as n should only be integer values, but if there is some defined constant which modifies the runtime of the 'n' function, this constant is simplified to O(1). For example, O(1000 * √n) is simplified to O(√n), as 1000 is a defined constant value. This also correlates to; given a function with a code block that runs n times, then 1000 constant procedures before or after the code block, the run time will be O(n) since O(n) + O(1000) = O(n) + O(1) = O(n)</span> ([Back](https://syhv-git.github.io/essays/What-is-a-computer.html#appendix-c)).
 
 ## Resources
 
