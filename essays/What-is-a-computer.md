@@ -128,38 +128,46 @@ I have provided links to readings on specific topics, and links to YouTube chann
 
 [Computability and Complexity Theory](https://plato.stanford.edu/entries/computability/)
 
-[](http://www.catb.org/~esr/faqs/hacker-howto.html)
+[Overview of Cybersecurity](https://resources.infosecinstitute.com/topic/security-categories/)
 
-[](http://math.andrej.com/data/bracket_types.pdf)
+[How to Become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
 
-[](https://plato.stanford.edu/entries/category-theory/)
+[Category Theory](http://web.stanford.edu/~truax/notes/Category_Theory.pdf)
 
-[](https://quantum.country/qcvc)
+[Category Theory for Computer Scientists](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf)
 
-[](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+[Learn Quantum Mechanics for Quantum Computing](https://quantum.country/qcvc)
 
-[](https://www.youtube.com/c/Trevtutor/featured)
+[Categorical Quantum Mechanics](https://www.cs.ox.ac.uk/files/10510/notes.pdf)
 
-[](https://www.youtube.com/c/EasyTheory)
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
+
+YouTube Channels:
+
+[Three Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
+[TrevTutor](https://www.youtube.com/c/Trevtutor/featured)
+
+[EasyTheory](https://www.youtube.com/c/EasyTheory)
 
 ## References
 
-\[1]	Merriam-Webster Dictionary, “Computer,” Merriam-Webster. \[Online]. Available: https://www.merriam-webster.com/dictionary/computer. \[Accessed Aug. 30, 2020].
+\[1]	Merriam-Webster Dictionary, “Computer,” Merriam-Webster. \[Online]. Available [Here](https://www.merriam-webster.com/dictionary/computer). \[Accessed Aug. 30, 2020].
 
-\[2]	A. M. Turing, On Computable Numbers, with an Application to the Entscheidungsproblem, Reading, 1936. \[E-book] Available: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+\[2]	A. M. Turing, On Computable Numbers, with an Application to the Entscheidungsproblem, Reading, 1936. \[E-book] Available [Here](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf).
 
-\[3]	F. Olito, “The evolution of computers since the 1930s,” Insider, Sept. 13, 2019. \[Online]. Available: https://www.insider.com/how-computers-evolved-history-2019-9#in-the-1940s-computers-took-up-entire-rooms-like-the-eniac-which-was-once-called-a-mathematical-robot-2. \[Accessed Aug. 30, 2020].
+\[3]	F. Olito, “The evolution of computers since the 1930s,” Insider, Sept. 13, 2019. \[Online]. Available [Here](https://www.insider.com/how-computers-evolved-history-2019-9#in-the-1940s-computers-took-up-entire-rooms-like-the-eniac-which-was-once-called-a-mathematical-robot-2). \[Accessed Aug. 30, 2020].
 
-\[4]	M. R. Swaine, “Harvard Mark I,” Britannica. \[Online]. Available: https://www.britannica.com/technology/Harvard-Mark-I. \[Accessed Aug. 30, 2020].
+\[4]	M. R. Swaine, “Harvard Mark I,” Britannica. \[Online]. Available [Here](https://www.britannica.com/technology/Harvard-Mark-I). \[Accessed Aug. 30, 2020].
 
-\[5]	National Geographic, “Sep 9, 1947 ce: World’s first computer bug,” National Geographic. \[Online]. Available: https://www.nationalgeographic.org/thisday/sep9/worlds-first-computer-bug/#:~:text=Sep%209%2C%201947%20CE%3A%20World's%20First%20Computer%20Bug,-3%20%2D%2012%2B&text=The%20engineers%20who%20found%20the,literally%20%22debug%22%20a%20machine.&text=On%20September%209%2C%201947%2C%20a,the%20world's%20first%20computer%20bug. \[Accessed Aug. 30, 2020].
+\[5]	National Geographic, “Sep 9, 1947 ce: World’s first computer bug,” National Geographic. \[Online]. Available [Here](https://www.nationalgeographic.org/thisday/sep9/worlds-first-computer-bug/#:~:text=Sep%209%2C%201947%20CE%3A%20World's%20First%20Computer%20Bug,-3%20%2D%2012%2B&text=The%20engineers%20who%20found%20the,literally%20%22debug%22%20a%20machine.&text=On%20September%209%2C%201947%2C%20a,the%20world's%20first%20computer%20bug). \[Accessed Aug. 30, 2020].
 
-\[6]	The University of Rhode Island, “History of computers,” University of Rhode Island. \[Online]. Available: https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm. \[Accessed Aug. 30, 2020].
+\[6]	The University of Rhode Island, “History of computers,” University of Rhode Island. \[Online]. Available [Here](https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm). \[Accessed Aug. 30, 2020].
 
-\[7]	Britannica, “Personal computer: Faster, smaller, and more-powerful pcs,” Britannica. \[Online]. Available: https://www.britannica.com/technology/personal-computer. \[Accessed Aug. 31, 2020].
+\[7]	Britannica, “Personal computer: Faster, smaller, and more-powerful pcs,” Britannica. \[Online]. Available [Here](https://www.britannica.com/technology/personal-computer). \[Accessed Aug. 31, 2020].
 
-\[8]	GCF Global, “Inside a computer,” Goodwill Community Foundation, Inc. \[Online]. Available: https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/. \[Accessed Aug. 31, 2020].
+\[8]	GCF Global, “Inside a computer,” Goodwill Community Foundation, Inc. \[Online]. Available [Here](https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/). \[Accessed Aug. 31, 2020].
 
-\[9]	WGU, “5 most popular operating systems,” Western Governors University, October 2, 2019. \[Online]. Available: https://www.wgu.edu/blog/5-most-popular-operating-systems1910.html. \[Accessed Aug. 31, 2020].
+\[9]	WGU, “5 most popular operating systems,” Western Governors University, October 2, 2019. \[Online]. Available [Here](https://www.wgu.edu/blog/5-most-popular-operating-systems1910.html). \[Accessed Aug. 31, 2020].
 
-\[10]	S. Ghosh, “The compilation process,” Medium, May 7, 2018. \[Online]. Available: https://medium.com/coding-den/the-compilation-process-a1307824d40e. \[Accessed Aug. 27, 2021].
+\[10]	S. Ghosh, “The compilation process,” Medium, May 7, 2018. \[Online]. Available [Here](https://medium.com/coding-den/the-compilation-process-a1307824d40e). \[Accessed Aug. 27, 2021].
