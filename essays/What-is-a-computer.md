@@ -142,7 +142,7 @@ I have provided links to readings on specific topics, and links to YouTube chann
 
 YouTube Channels:
 
-[Three Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 [TrevTutor](https://www.youtube.com/c/Trevtutor/featured)
 
