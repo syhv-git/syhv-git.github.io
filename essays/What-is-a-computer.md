@@ -118,29 +118,29 @@ A relatively new branch of mathematics, known as category theory, is becoming fu
 
 I have provided links to readings on specific topics, and links to YouTube channels which teach the mathematics required for the readings. Many of the readings cover advanced concepts in discrete mathematics, so one should already have learned the fundamentals before attempting these. All of these resources were used to learn and many as a reference for this paper. They are ordered as they appear across the text.
 
-https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0077
+[Formal Language Theory](https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0077)
 
-https://en.wikipedia.org/wiki/Automata_theory
+[Automata Theory](https://en.wikipedia.org/wiki/Automata_theory)
 
-https://plato.stanford.edu/entries/turing-machine/
+[Turing Machines](https://plato.stanford.edu/entries/turing-machine/)
 
-https://notesread.com/compiler-theory/
+[Compiler Theory](https://notesread.com/compiler-theory/)
 
-https://plato.stanford.edu/entries/computability/ 
+[Computability and Complexity Theory](https://plato.stanford.edu/entries/computability/)
 
-http://www.catb.org/~esr/faqs/hacker-howto.html
+[](http://www.catb.org/~esr/faqs/hacker-howto.html)
 
-http://math.andrej.com/data/bracket_types.pdf
+[](http://math.andrej.com/data/bracket_types.pdf)
 
-https://plato.stanford.edu/entries/category-theory/ 
+[](https://plato.stanford.edu/entries/category-theory/)
 
-https://quantum.country/qcvc
+[](https://quantum.country/qcvc)
 
-https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
+[](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
-https://www.youtube.com/c/Trevtutor/featured 
+[](https://www.youtube.com/c/Trevtutor/featured)
 
-https://www.youtube.com/c/EasyTheory
+[](https://www.youtube.com/c/EasyTheory)
 
 ## References
 
@@ -152,7 +152,7 @@ https://www.youtube.com/c/EasyTheory
 
 \[4]	M. R. Swaine, “Harvard Mark I,” Britannica. \[Online]. Available: https://www.britannica.com/technology/Harvard-Mark-I. \[Accessed Aug. 30, 2020].
 
-\[5]	National Geographic, “Sep 9, 1947 ce: World’s first computer bug,” National Geographic. \[Online]. Available: https://www.nationalgeographic.org/thisday/sep9/worlds-first-computer-bug/#:~:text=Sep%209%2C%201947%20CE%3A%20World's%20First%20Computer%20Bug,-3%20%2D%2012%2B&text=The%20engineers%20who%20found%20the,literally%20%22debug%22%20a%20machine.&text=On%20September%209%2C%201947%2C%20a,the%20world's%20first%20computer%20bug.. \[Accessed Aug. 30, 2020].
+\[5]	National Geographic, “Sep 9, 1947 ce: World’s first computer bug,” National Geographic. \[Online]. Available: https://www.nationalgeographic.org/thisday/sep9/worlds-first-computer-bug/#:~:text=Sep%209%2C%201947%20CE%3A%20World's%20First%20Computer%20Bug,-3%20%2D%2012%2B&text=The%20engineers%20who%20found%20the,literally%20%22debug%22%20a%20machine.&text=On%20September%209%2C%201947%2C%20a,the%20world's%20first%20computer%20bug. \[Accessed Aug. 30, 2020].
 
 \[6]	The University of Rhode Island, “History of computers,” University of Rhode Island. \[Online]. Available: https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm. \[Accessed Aug. 30, 2020].
 
