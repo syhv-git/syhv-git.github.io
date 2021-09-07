@@ -140,8 +140,6 @@ I have provided links to readings on specific topics, and links to YouTube chann
 
 [Categorical Quantum Mechanics](https://www.cs.ox.ac.uk/files/10510/notes.pdf)
 
-[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html)
-
 YouTube Channels:
 
 [Three Blue One Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
