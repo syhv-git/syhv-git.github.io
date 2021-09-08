@@ -22,4 +22,6 @@ The success rate of this bot was around 32%, and a would have blown out my accou
 
 Since creating these, I have tested other customized indicators, but ultimately, I want to wait until my knowledge of programing and statistics-based algorithms improve. While I have the source code, I decided not to include them here as I do not want to fall into legal troubles. Simply stating, ”this is not financial advice,” is not enough these days, and I do not wish for anyone to bankrupt themselves with tools I created.
 
-<sup>1</sup> A video on the "flash crash" of 2010 can be seen <a href="https://www.youtube.com/watch?v=_ZDEWVJan0s&ab_channel=BloombergQuicktake" target="_blank" rel="noopener noreferrer">here</a>
+<p>
+<sup>1</sup> A video on the "flash crash" of 2010 can be seen <a href="https://www.youtube.com/watch?v=_ZDEWVJan0s&ab_channel=BloombergQuicktake" target="_blank" rel="noopener noreferrer">here</a>.
+</p>
