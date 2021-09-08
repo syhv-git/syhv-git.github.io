@@ -12,7 +12,7 @@ labels:
 summary: My experience in creating indicators and auto-bot traders for the Forex Market
 ---
 
-<img class="ui fluid centered large image" src"https://github.com/syhv-git/syhv-git.github.io/blob/master/images/PL-indicator.jpeg">
+<a href="https://github.com/syhv-git/syhv-git.github.io/blob/master/images/PL-indicator.jpeg"><i class="ui fluid centered large image"></i></a>
 
 In the Spring of 2019, I was introduced to foreign exchange market trading, Forex, through my parents. The Forex market is a global decentralized market where people are able to trade currency pairs, indices, metals, and stocks. I saw the potential, and learned the fundamentals, but with school, I was unable to dedicate a lot of time to trading. A year passed, and I found myself bored in quarantine, and decided to learn more about indicators and trading bots. After analyzing hundreds of indicators, and watching them in real time, I created an indicator which is largely derived from the ATR indicator. This worked well for the metals market, but was unreliable for currency pairs and indices. I utilized this indicator, along with market analysis, to enter and exit trades, and overall, I had a 48% success rate. This may not seem like a good indicator, and there are definitely better out there, but the win-loss ratio I used allowed margin for profits.
 
