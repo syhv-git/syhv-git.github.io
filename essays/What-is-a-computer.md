@@ -118,35 +118,35 @@ A relatively new branch of mathematics, known as category theory, is becoming fu
 
 I have provided links to readings on specific topics, and links to YouTube channels which teach the mathematics required for the readings. Many of the readings cover advanced concepts in discrete mathematics, so one should already have learned the fundamentals before attempting these. All of these resources were used to learn and many as a reference for this paper. They are ordered as they appear across the text.
 
-[Formal Language Theory](https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0077)
+<a href="https://royalsocietypublishing.org/doi/10.1098/rstb.2012.0077" target="_blank" rel="noopener noreferrer">Formal Language Theory</a>
 
-[Automata Theory](https://en.wikipedia.org/wiki/Automata_theory)
+<a href="https://en.wikipedia.org/wiki/Automata_theory" target="_blank" rel="noopener noreferrer">Automata Theory</a>
 
-[Turing Machines](https://plato.stanford.edu/entries/turing-machine/)
+<a href="https://plato.stanford.edu/entries/turing-machine/" target="_blank" rel="noopener noreferrer">Turing Machines</a>
 
-[Compiler Theory](https://notesread.com/compiler-theory/)
+<a href="https://notesread.com/compiler-theory/" target="_blank" rel="noopener noreferrer">Compiler Theory</a>
 
-[Computability and Complexity Theory](https://plato.stanford.edu/entries/computability/)
+<a href="https://plato.stanford.edu/entries/computability/" target="_blank" rel="noopener noreferrer">Computability and Complexity Theory</a>
 
-[Overview of Cybersecurity](https://resources.infosecinstitute.com/topic/security-categories/)
+<a href="https://resources.infosecinstitute.com/topic/security-categories/" target="_blank" rel="noopener noreferrer">Overview of Cybersecurity</a>
 
-[How to Become a Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
+<a href="http://www.catb.org/~esr/faqs/hacker-howto.html" target="_blank" rel="noopener noreferrer">How to Become a Hacker</a>
 
-[Category Theory](http://web.stanford.edu/~truax/notes/Category_Theory.pdf)
+<a href="http://web.stanford.edu/~truax/notes/Category_Theory.pdf" target="_blank" rel="noopener noreferrer">Category Theory</a>
 
-[Category Theory for Computer Scientists](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf)
+<a href="http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf" target="_blank" rel="noopener noreferrer">Category Theory for Computer Scientists</a>
 
-[Learn Quantum Mechanics for Quantum Computing](https://quantum.country/qcvc)
+<a href="https://quantum.country/qcvc" target="_blank" rel="noopener noreferrer">Learn Quantum Mechanics for Quantum Computing</a>
 
-[Categorical Quantum Mechanics](https://www.cs.ox.ac.uk/files/10510/notes.pdf)
+<a href="https://www.cs.ox.ac.uk/files/10510/notes.pdf" target="_blank" rel="noopener noreferrer">Categorical Quantum Mechanics</a>
 
 YouTube Channels:
 
-[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+<a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw" target="_blank" rel="noopener noreferrer">3Blue1Brown</a>
 
-[TrevTutor](https://www.youtube.com/c/Trevtutor/featured)
+<a href="https://www.youtube.com/c/Trevtutor/featured" target="_blank" rel="noopener noreferrer">TrevTutor</a>
 
-[EasyTheory](https://www.youtube.com/c/EasyTheory)
+<a href="https://www.youtube.com/c/EasyTheory" target="_blank" rel="noopener noreferrer">EasyTheory</a>
 
 ## References
 
