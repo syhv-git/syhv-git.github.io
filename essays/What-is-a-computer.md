@@ -150,22 +150,22 @@ YouTube Channels:
 
 ## References
 
-\[1]	Merriam-Webster Dictionary, “Computer,” Merriam-Webster. \[Online]. Available [Here](https://www.merriam-webster.com/dictionary/computer). \[Accessed Aug. 30, 2020].
+\[1]	Merriam-Webster Dictionary, “Computer,” Merriam-Webster. \[Online]. Available <a href="https://www.merriam-webster.com/dictionary/computer" target="_blank" rel="noopener noreferrer">Here</a>. \[Accessed Aug. 30, 2020].
 
-\[2]	A. M. Turing, On Computable Numbers, with an Application to the Entscheidungsproblem, Reading, 1936. \[E-book] Available [Here](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf).
+\[2]	A. M. Turing, On Computable Numbers, with an Application to the Entscheidungsproblem, Reading, 1936. \[E-book] Available <a href="https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf" target="_blank" rel="noopener noreferrer">Here</a>.
 
-\[3]	F. Olito, “The evolution of computers since the 1930s,” Insider, Sept. 13, 2019. \[Online]. Available [Here](https://www.insider.com/how-computers-evolved-history-2019-9#in-the-1940s-computers-took-up-entire-rooms-like-the-eniac-which-was-once-called-a-mathematical-robot-2). \[Accessed Aug. 30, 2020].
+\[3]	F. Olito, “The evolution of computers since the 1930s,” Insider, Sept. 13, 2019. \[Online]. Available <a href="https://www.insider.com/how-computers-evolved-history-2019-9#in-the-1940s-computers-took-up-entire-rooms-like-the-eniac-which-was-once-called-a-mathematical-robot-2" target="_blank" rel="noopener noreferrer">Here</a>. \[Accessed Aug. 30, 2020].
 
-\[4]	M. R. Swaine, “Harvard Mark I,” Britannica. \[Online]. Available [Here](https://www.britannica.com/technology/Harvard-Mark-I). \[Accessed Aug. 30, 2020].
+\[4]	M. R. Swaine, “Harvard Mark I,” Britannica. \[Online]. Available <a href="https://www.britannica.com/technology/Harvard-Mark-I" target="_blank" rel="noopener noreferrer">Here</a>. \[Accessed Aug. 30, 2020].
 
-\[5]	National Geographic, “Sep 9, 1947 ce: World’s first computer bug,” National Geographic. \[Online]. Available [Here](https://www.nationalgeographic.org/thisday/sep9/worlds-first-computer-bug/#:~:text=Sep%209%2C%201947%20CE%3A%20World's%20First%20Computer%20Bug,-3%20%2D%2012%2B&text=The%20engineers%20who%20found%20the,literally%20%22debug%22%20a%20machine.&text=On%20September%209%2C%201947%2C%20a,the%20world's%20first%20computer%20bug). \[Accessed Aug. 30, 2020].
+\[5]	National Geographic, “Sep 9, 1947 ce: World’s first computer bug,” National Geographic. \[Online]. Available <a href="https://www.nationalgeographic.org/thisday/sep9/worlds-first-computer-bug/#:~:text=Sep%209%2C%201947%20CE%3A%20World's%20First%20Computer%20Bug,-3%20%2D%2012%2B&text=The%20engineers%20who%20found%20the,literally%20%22debug%22%20a%20machine.&text=On%20September%209%2C%201947%2C%20a,the%20world's%20first%20computer%20bug" target="_blank" rel="noopener noreferrer">Here</a>. \[Accessed Aug. 30, 2020].
 
-\[6]	The University of Rhode Island, “History of computers,” University of Rhode Island. \[Online]. Available [Here](https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm). \[Accessed Aug. 30, 2020].
+\[6]	The University of Rhode Island, “History of computers,” University of Rhode Island. \[Online]. Available <a href="https://homepage.cs.uri.edu/faculty/wolfe/book/Readings/Reading03.htm" target="_blank" rel="noopener noreferrer">Here</a>. \[Accessed Aug. 30, 2020].
 
-\[7]	Britannica, “Personal computer: Faster, smaller, and more-powerful pcs,” Britannica. \[Online]. Available [Here](https://www.britannica.com/technology/personal-computer). \[Accessed Aug. 31, 2020].
+\[7]	Britannica, “Personal computer: Faster, smaller, and more-powerful pcs,” Britannica. \[Online]. Available <a href="https://www.britannica.com/technology/personal-computer" target="_blank" rel="noopener noreferrer">Here</a>. \[Accessed Aug. 31, 2020].
 
-\[8]	GCF Global, “Inside a computer,” Goodwill Community Foundation, Inc. \[Online]. Available [Here](https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/). \[Accessed Aug. 31, 2020].
+\[8]	GCF Global, “Inside a computer,” Goodwill Community Foundation, Inc. \[Online]. Available <a href="https://edu.gcfglobal.org/en/computerbasics/inside-a-computer/1/" target="_blank" rel="noopener noreferrer">Here</a>. \[Accessed Aug. 31, 2020].
 
-\[9]	WGU, “5 most popular operating systems,” Western Governors University, October 2, 2019. \[Online]. Available [Here](https://www.wgu.edu/blog/5-most-popular-operating-systems1910.html). \[Accessed Aug. 31, 2020].
+\[9]	WGU, “5 most popular operating systems,” Western Governors University, October 2, 2019. \[Online]. Available <a href="https://www.wgu.edu/blog/5-most-popular-operating-systems1910.html" target="_blank" rel="noopener noreferrer">Here</a>. \[Accessed Aug. 31, 2020].
 
-\[10]	S. Ghosh, “The compilation process,” Medium, May 7, 2018. \[Online]. Available [Here](https://medium.com/coding-den/the-compilation-process-a1307824d40e). \[Accessed Aug. 27, 2021].
+\[10]	S. Ghosh, “The compilation process,” Medium, May 7, 2018. \[Online]. Available <a href="https://medium.com/coding-den/the-compilation-process-a1307824d40e" target="_blank" rel="noopener noreferrer">Here</a>. \[Accessed Aug. 27, 2021].
