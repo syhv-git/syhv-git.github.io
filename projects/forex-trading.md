@@ -12,7 +12,7 @@ labels:
 summary: My experience in creating indicators and auto-bot traders for the Forex Market
 ---
 
-<img class="ui fluid huge image" src="../images/PL-indicator.jpeg">
+<img class="ui fluid massive image" src="../images/PL-indicator.jpeg">
 
 In the Spring of 2019, I was introduced to foreign exchange market trading, Forex, through my parents. The Forex market is a global decentralized market where people are able to trade currency pairs, indices, metals, and stocks. I saw the potential, and learned the fundamentals, but with school, I was unable to dedicate a lot of time to trading. A year passed, and I found myself bored in quarantine, and decided to learn more about indicators and trading bots. After back-testing hundreds of indicators, and watching them in real time, I created an indicator which is a derivative of the Average True Range(ATR) indicator, with some calculation modifications and compounded with one hardcoded moving average. The light blue line is an exponential moving average from the standard indicator list provided in MetaTrader4, the platform which hosts the Forex market. This worked well for the metals market, but was unreliable for currency pairs and indices. I utilized this indicator, along with market analysis, to enter and exit trades, and overall, I had a 48% success rate. This may not seem like a good indicator, and there are definitely better out there, but the win-loss ratio I used allowed margin for profits.
 
@@ -22,6 +22,4 @@ The success rate of this bot was around 32%, and a would have blown out my accou
 
 Since creating these, I have tested other customized indicators, but ultimately, I want to wait until my knowledge of programing and statistics-based algorithms improve. While I have the source code, I decided not to include them here as I do not want to fall into legal troubles. Simply stating, ”this is not financial advice,” is not enough these days, and I do not wish for anyone to bankrupt themselves with tools I created.
 
-<p>
 <sup>1</sup> A video on the "flash crash" of 2010 can be seen <a href="https://www.youtube.com/watch?v=_ZDEWVJan0s&ab_channel=BloombergQuicktake" target="_blank" rel="noopener noreferrer">here</a>.
-</p>
