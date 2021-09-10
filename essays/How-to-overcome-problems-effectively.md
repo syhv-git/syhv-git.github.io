@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: How to overcome problems effectively
+# All dates must be YYYY-MM-DD format!
+date: 2021-09-09
+published: true
+labels:
+  - Learning
+  - Problem Solving
+---
+
 Learning any new skill, or becoming a master at the craft, is always enjoyable, but can be quite intimidating (if it is unenjoyable, maybe it is not worth investing your precious time. However, take value in the things you have learned as these can help once you find something that is truly enjoyable to do). Along the way, questions about concepts that are difficult for one to comprehend are bound to arise. It is most common for people to ask someone more knowledgeable people to answer their questions, whether it be a private conversation or public question in a forum. However, before asking a question, one must be able to properly identify the problem. The people who look to answer questions can only help with information given to them, so the more information provided can help with reader comprehension of the issue to overcome. To identify the fundamental issues around the problem, one must take a step back and think about why they are having trouble understanding, or executing, the subject matter. There are various reasons for this, but the questioner must ask an effective question to receive an effective solution.
 
 ## How to create an effective question
