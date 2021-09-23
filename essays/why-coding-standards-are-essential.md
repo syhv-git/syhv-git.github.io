@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: Why coding standards are essential
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-23
 published: false
