@@ -4,7 +4,7 @@ type: essay
 title: A programmer's toolbox
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-07
-published: false
+published: true
 labels:
   - Learning
   - Coding
