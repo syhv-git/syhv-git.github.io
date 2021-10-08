@@ -8,6 +8,7 @@ published: true
 labels:
   - Learning
   - Cybersecurity
+  - Digital Forensics
   - Privacy
   - Law
 ---
