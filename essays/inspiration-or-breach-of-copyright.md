@@ -16,9 +16,17 @@ labels:
 | :--- |
 | <a href="#i-introduction" rel="noopener noreferrer">I. Introduction</a> |
 | <a href="#ii-creative-commons" rel="noopener noreferrer">II. Creative Commons</a> |
+| <a href="#a-licenses-and-copyright" rel="noopener noreferrer">*- A. Licenses and Copyright*</a> |
+| <a href="#b-public-domain" rel="noopener noreferrer">*- B. Public Domain*</a> |
+| <a href="#c-fair-use" rel="noopener noreferrer">*- C. Fair Use*</a> |
+| <a href="#iii-the-case-study" rel="noopener noreferrer">III. The Case Study</a> |
+| <a href="#ii-creative-commons" rel="noopener noreferrer">II. Creative Commons</a> |
+| <a href="#ii-creative-commons" rel="noopener noreferrer">II. Creative Commons</a> |
+| <a href="#c-battles-between-private-parties-and-organizations" rel="noopener noreferrer">*- C. Battles Between Private Parties and Organizations*</a> |
+| <a href="#ii-creative-commons" rel="noopener noreferrer">II. Creative Commons</a> |
 |  |
 
-I. INTRODUCTION
+I. Introduction
 
 Law in regards to copyright is often confusing and under-researched. When someone utilizes another person or organization’s creative work, whether there are specific licensing agreements listed or not, the product is copyrighted under The Copyright Act of 1976. The defaulted copyright laws are pretty restrictive, which is the foundation for creating Creative Commons licensing agreements [1, References]. This paper looks at the use of Creative Commons licensing in a theorized scenario; “College Guy(CG) is being sued by “Cooperation Sues A Lot, Inc.(CSAL Inc.)” for copyright infringement on a piece of software they sell. In a startup product of his own, CG used some music and pictures that the program sold by “CSAL Inc.” produced. Now he is being sued for copyright infringement. The original content of the media was released under creative commons. CG’s startup took the material and repackaged it into what they claim is ‘significantly different, so much so, that it is not the same media anymore but proprietary’.”
   
@@ -38,7 +46,7 @@ All creative works, whether bound by copyright or not, all fall under the doctri
 
 Fair use is a set of guidelines that permit the unlicensed use of copyrighted content. While creative content may be free to obtain, this does not mean using the content is within fair use guidelines. Section 107 of the United States Code (U.S.C) defines the term ‘fair use’ and explicitly states that “purposes such as criticism, comment, news reporting, teaching, scholarship, or research, is not an infringement of copyright” [4, References]. These are derived from the terms described in sections 106 and 106A. These terms define the author’s exclusive rights regarding the use of their work. These terms inherit their definition from section 102, which states what can be copyrighted and how the original copyright holder’s license is protected only under the original creation. While this is the very bare-bones definition of fair use, the following sections further expand on this concept. There are detailed standards for each media platform, and each medium has a different section. Within section 107, four defined paragraphs allow interpretation of whether something falls under fair use, and 107(3) is the section most often argued in disputes over copyright infringement [5, References].
   
-III. THE CASE STUDY
+III. The Case Study
 
 *A. Determining damages based on license type*
 
