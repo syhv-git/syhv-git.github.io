@@ -67,14 +67,14 @@ Researching the topic of copyright was dumbfounding as the legal jargon and leng
 
 REFERENCES
 
-[1] Creative Commons. Creative commons certificate for educators, academic librarians and GLAM, (2021). Accessed: September 21, 2021. [Online]. Available: https://certificates.creativecommons.org/cccertedu/
+[1] Creative Commons. Creative commons certificate for educators, academic librarians and GLAM, (2021). Accessed: September 21, 2021. [Online]. Available <a href="https://certificates.creativecommons.org/cccertedu/" target="_blank" rel="noopener noreferrer">Here</a>.
 
-[2] Creative Commons. “About CC licenses.” Creative Commons. https://creativecommons.org/about/cclicenses/ (Accessed on September 21, 2021).
+[2] Creative Commons. “About CC licenses.” Creative Commons. Available <a href="https://creativecommons.org/about/cclicenses/" target="_blank" rel="noopener noreferrer">Here</a> (Accessed on September 21, 2021).
 
-[3] “10 Copyright laws you have to know.” Laws. https://copyright.laws.com/copyright-law (Accessed on September 21, 2021).
+[3] “10 Copyright laws you have to know.” Laws. Available <a href="https://copyright.laws.com/copyright-law" target="_blank" rel="noopener noreferrer">Here</a> (Accessed on September 21, 2021).
 
-[4] United States Code. 17 U.S.C., Copyrights. [Online]. Available: https://uscode.house.gov/browse/prelim@title17&edition=prelim
+[4] United States Code. 17 U.S.C., Copyrights. [Online]. Available <a href="https://uscode.house.gov/browse/prelim@title17&edition=prelim" target="_blank" rel="noopener noreferrer">Here</a>.
 
-[5] U. S. Copyright Office. “More information on fair use.” Copyright. https://www.copyright.gov/fair-use/more-info.html (Accessed on September 21, 2021).
+[5] U. S. Copyright Office. “More information on fair use.” Copyright. Available <a href="https://www.copyright.gov/fair-use/more-info.html" target="_blank" rel="noopener noreferrer">Here</a> (Accessed on September 21, 2021).
 
-[6] S. Vondran. “Is violation of creative commons license a breach of contract or copyright infringement?” Vondran Legal. https://www.vondranlegal.com/is-violation-of-creative-commons-license-a-breach-of-contract-or-copyright-infringement#:~:text=If%20a%20Creative%20Commons%20condition%20is%20breached%2C%20likely,for%20breach.%20A%20covenant%20is%20basically%20a%20promise (Accessed September 21, 2021).
+[6] S. Vondran. “Is violation of creative commons license a breach of contract or copyright infringement?” Vondran Legal. Available <a href="https://www.vondranlegal.com/is-violation-of-creative-commons-license-a-breach-of-contract-or-copyright-infringement#:~:text=If%20a%20Creative%20Commons%20condition%20is%20breached%2C%20likely,for%20breach.%20A%20covenant%20is%20basically%20a%20promise" target="_blank" rel="noopener noreferrer">Here</a> (Accessed September 21, 2021).
