@@ -13,6 +13,7 @@ labels:
 ---
 
 | Table of Contents |
+| :--- |
 | <a href="#i-introduction" rel="noopener noreferrer">I. Introduction</a> |
 | <a href="#ii-creative-commons" rel="noopener noreferrer">II. Creative Commons</a> |
 |  |
