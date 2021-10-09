@@ -68,6 +68,6 @@ Reading over the Australian Privacy Principles and the Privacy Act 1988 was sign
 
 [1] D. Wolf. Law & Order. NBC. 2010. Television Show.
 
-[2] Office of the Australian Information Commissioner. (2019, June 22). Australian Privacy Principles guidelines. [Online]. Available: https://www.oaic.gov.au/privacy/australian-privacy-principles-guidelines/
+[2] Office of the Australian Information Commissioner. (2019, June 22). Australian Privacy Principles guidelines. [Online]. Available <a href="https://www.oaic.gov.au/privacy/australian-privacy-principles-guidelines/" target="_blank" rel="noopener noreferrer">Here</a>.
 
-[3] Australian Government. (2021, September 27). Privacy Act 1988. [Online]. Available: https://www.legislation.gov.au/Details/C2021C00379
+[3] Australian Government. (2021, September 27). Privacy Act 1988. [Online]. Available <a href="https://www.legislation.gov.au/Details/C2021C00379" target="_blank" rel="noopener noreferrer">Here</a>.
