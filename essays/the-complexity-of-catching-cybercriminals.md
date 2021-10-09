@@ -15,13 +15,13 @@ labels:
 
 | Table of Contents |
 | :--- |
-| <a href="#i-introduction" rel="noopener noreferrence">I. Introduction</a> |
-| <a href="#ii-an-analysis-of-australian-privacy-principles" rel="noopener noreferrence">II. An Analysis of Australian Privacy Principles</a> |
-| <a href="#a-cross-border-disclosure-requirements" rel="noopener noreferrence">*- A. Cross-Border Disclosure Requirements*</a> |
-| <a href="#b-requirements-for-getting-consent-to-access-private-data" rel="noopener noreferrence">*- B. Requirements for Getting Consent to Access Private Data*</a> |
-| <a href="#c-storing-pii-data-in-australia" rel="noopener noreferrence">*- C. Storing PII Data in Australia*</a> |
-| <a href="#iii-conclusion" rel="noopener noreferrence">III. Conclusion</a> |
-| <a href="#references" rel="noopener noreferrence">References</a> |
+| <a href="#i-introduction" rel="noopener noreferrer">I. Introduction</a> |
+| <a href="#ii-an-analysis-of-australian-privacy-principles" rel="noopener noreferrer">II. An Analysis of Australian Privacy Principles</a> |
+| <a href="#a-cross-border-disclosure-requirements" rel="noopener noreferrer">*- A. Cross-Border Disclosure Requirements*</a> |
+| <a href="#b-requirements-for-getting-consent-to-access-private-data" rel="noopener noreferrer">*- B. Requirements for Getting Consent to Access Private Data*</a> |
+| <a href="#c-storing-pii-data-in-australia" rel="noopener noreferrer">*- C. Storing PII Data in Australia*</a> |
+| <a href="#iii-conclusion" rel="noopener noreferrer">III. Conclusion</a> |
+| <a href="#references" rel="noopener noreferrer">References</a> |
 |  |
 
 ## I. Introduction
