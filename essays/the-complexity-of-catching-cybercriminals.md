@@ -60,7 +60,7 @@ When storing data for an investigation, the investigator must have accurate and 
 
 Overall, an investigator must find an APP entity to receive solicited private information and use that information to conduct their case. The investigator must follow strict standards when requesting and collecting personal information, and many protocols follow the procurement process. The integrity of the data is a priority, and the investigator must take reasonable security considerations to prevent misuse, interference, and loss of data. There are also security protocols an investigator must take to ensure the authority of the investigation is maintained and safeguarded from external attacks.
 
-## III. CONCLUSION
+## III. Conclusion
 
 Reading over the Australian Privacy Principles and the Privacy Act 1988 was significantly different from United States law documents. It was also substantially more difficult to parse the phrases, as the structure is drastically different from U.S. laws. Furthermore, I have never seen a formal document to supplement an Act or law document that is not legally binding to some extent of jurisdiction. Also, reading and adhering to privacy laws does not mean there is no other work to be done. An investigator must research extradition treaties and numerous other topics to understand how to conduct business internationally thoroughly. Becoming an information forensics expert is a daunting challenge, but investigators are crucial to any justice system. In the same right as police keeping our physical environment safe, cybersecurity officers strive to make cyberspace a safe place for all users across the globe.
 
