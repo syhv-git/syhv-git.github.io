@@ -22,7 +22,7 @@ labels:
 | <a href="#iii-the-case-study" rel="noopener noreferrer">III. The Case Study</a> |
 | <a href="#a-determining-damages-based-on-license-type" rel="noopener noreferrer">*- A. Determining damages based on license type*</a> |
 | <a href="#b-claiming-fair-use" rel="noopener noreferrer">*- B. Claiming fair use*</a> |
-| <a href="#c-battles-between-private-parties-and-organizations" rel="noopener noreferrer">*- C. Battles Between Private Parties and Organizations*</a> |
+| <a href="#c-battles-between-private-parties-and-organizations" rel="noopener noreferrer">*- C. Battles between private parties and organizations*</a> |
 | <a href="#iv-conclusion" rel="noopener noreferrer">IV. Conclusion</a> |
 | <a href="#references" rel="noopener noreferrer">References</a> |
 |  |
