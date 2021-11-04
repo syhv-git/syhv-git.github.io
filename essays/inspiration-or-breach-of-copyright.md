@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: A programmer's toolbox
+title: Inspiration or breach of copyright?
 # All dates must be YYYY-MM-DD format!
-date: 2021-10-07
+date: 2021-09-26
 published: true
 labels:
   - Learning
