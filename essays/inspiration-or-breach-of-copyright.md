@@ -4,7 +4,7 @@ type: essay
 title: A programmer's toolbox
 # All dates must be YYYY-MM-DD format!
 date: 2021-10-07
-published: false
+published: true
 labels:
   - Learning
   - Creative Commons
@@ -28,7 +28,7 @@ labels:
 
 I. Introduction
 
-Law in regards to copyright is often confusing and under-researched. When someone utilizes another person or organization’s creative work, whether there are specific licensing agreements listed or not, the product is copyrighted under The Copyright Act of 1976. The defaulted copyright laws are pretty restrictive, which is the foundation for creating Creative Commons licensing agreements [1, References]. This paper looks at the use of Creative Commons licensing in a theorized scenario; “College Guy(CG) is being sued by “Cooperation Sues A Lot, Inc.(CSAL Inc.)” for copyright infringement on a piece of software they sell. In a startup product of his own, CG used some music and pictures that the program sold by “CSAL Inc.” produced. Now he is being sued for copyright infringement. The original content of the media was released under creative commons. CG’s startup took the material and repackaged it into what they claim is ‘significantly different, so much so, that it is not the same media anymore but proprietary’.”
+Law in regards to copyright is often confusing and under-researched. When someone utilizes another person or organization’s creative work, whether there are specific licensing agreements listed or not, the product is copyrighted under The Copyright Act of 1976. The defaulted copyright laws are pretty restrictive, which is the foundation for creating Creative Commons licensing agreements [1, References]. This paper looks at the use of Creative Commons licensing in a theorized scenario; “College Guy(CG) is being sued by “Cooperation Sues A Lot, Inc.(CSAL Inc.)” for copyright infringement on a piece of software they sell. In a startup product of his own, CG used some music and pictures that the program sold by “CSAL Inc.” produced. Now he is being sued for copyright infringement. The original content of the media was released under creative commons. CG’s startup took the material and repackaged it into what they claim is ‘significantly different, so much so, that it is not the same media anymore but proprietary.’”
   
 II. CREATIVE COMMONS
 
@@ -68,7 +68,7 @@ All four guidelines are evaluated together and used in conjunction, determining 
 
 Copyright lawsuits are becoming pervasive in the modern world, as everyone can access anything posted by anyone. As such, content creators must obtain a deep understanding of both federal and international laws to keep themselves out of litigation. For CSAL Inc., this lawsuit is probably a drop in the bucket cost-wise and is not their first lawsuit on copyright infringement (Company Sues A Lot). For CG and any other private creator or startup company, this lawsuit can be devastating financially and is probably the first time they encounter a case. 
 
-Creative Commons licenses allow everyone to loosen the tight restrictions set forth by the Copyright Act; however, nefarious organizations can abuse the system for financial gain. Both large organizations and private groups can distribute media under a false pretense that their content is licensed under Creative Commons, then sue others for breach of contract or willful copyright infringement [6, References]. This deception can give copyright-licenses a notorious reputation, even though these licensing agreements are supposed to make copyright laws easier to comprehend and utilize for one's creative work. The user must investigate everything, and due diligence is necessary to prevent litigation.
+Creative Commons licenses allow everyone to loosen the tight restrictions set forth by the Copyright Act; however, nefarious organizations can abuse the system for financial gain. Both large organizations and private groups can distribute media under a false pretense that their content is licensed under Creative Commons, then sue others for breach of contract or willful copyright infringement [6, References]. This deception can give copyright licenses a notorious reputation, even though these licensing agreements are supposed to make copyright laws easier to comprehend and utilize for one's creative work. The user must investigate everything, and due diligence is necessary to prevent litigation.
 
 IV. CONCLUSION
 
