@@ -20,10 +20,11 @@ labels:
 | <a href="#b-public-domain" rel="noopener noreferrer">*- B. Public Domain*</a> |
 | <a href="#c-fair-use" rel="noopener noreferrer">*- C. Fair Use*</a> |
 | <a href="#iii-the-case-study" rel="noopener noreferrer">III. The Case Study</a> |
-| <a href="#ii-creative-commons" rel="noopener noreferrer">II. Creative Commons</a> |
-| <a href="#ii-creative-commons" rel="noopener noreferrer">II. Creative Commons</a> |
+| <a href="#a-determining-damages-based-on-license-type" rel="noopener noreferrer">*- A. Determining damages based on license type*</a> |
+| <a href="#b-claiming-fair-use" rel="noopener noreferrer">*B. Claiming fair use*</a> |
 | <a href="#c-battles-between-private-parties-and-organizations" rel="noopener noreferrer">*- C. Battles Between Private Parties and Organizations*</a> |
-| <a href="#ii-creative-commons" rel="noopener noreferrer">II. Creative Commons</a> |
+| <a href="#iv-conclusion" rel="noopener noreferrer">IV. Conclusion</a> |
+| <a href="#references" rel="noopener noreferrer">References</a> |
 |  |
 
 I. Introduction
@@ -70,11 +71,11 @@ Copyright lawsuits are becoming pervasive in the modern world, as everyone can a
 
 Creative Commons licenses allow everyone to loosen the tight restrictions set forth by the Copyright Act; however, nefarious organizations can abuse the system for financial gain. Both large organizations and private groups can distribute media under a false pretense that their content is licensed under Creative Commons, then sue others for breach of contract or willful copyright infringement [6, References]. This deception can give copyright licenses a notorious reputation, even though these licensing agreements are supposed to make copyright laws easier to comprehend and utilize for one's creative work. The user must investigate everything, and due diligence is necessary to prevent litigation.
 
-IV. CONCLUSION
+IV. Conclusion
 
 Researching the topic of copyright was dumbfounding as the legal jargon and lengthy documents made navigating the laws exhausting. I was relatively familiar with the U. S. Code, but I never investigated the copyright laws. As I was reading these articles, I made connections to famous lawsuits on copyright and fair use in mainstream media, such as the case Matt Hosseinzadeh v. Ethan Klein and Hila Klein. This case was a lengthy battle between two YouTubers, H3H3 Productions and Matt Hoss Zone. Matt Hosseinzadeh sued Ethan and Hila Klein for copyright infringement as there were many videos on H3H3 productions which had videos of Hosseinzadeh. The case ended as a victory for the defending party, as H3H3 Productions used the original media for commentary and criticisms. However, this victory did not protect the defendants from tens of thousands of dollars in legal fees, not to mention the years it took to reach a verdict. This example is just one of many about copyright infringement, and lesser-known people are prey for this type of frivolous litigation. 
 
-REFERENCES
+References
 
 [1] Creative Commons. Creative commons certificate for educators, academic librarians and GLAM, (2021). Accessed: September 21, 2021. [Online]. Available <a href="https://certificates.creativecommons.org/cccertedu/" target="_blank" rel="noopener noreferrer">Here</a>.
 
