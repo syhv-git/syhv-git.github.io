@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: How to overcome problems effectively
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-09
+date: 2021-12-02
 published: true
 labels:
   - Learning
