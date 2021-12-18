@@ -92,18 +92,15 @@
         "C++",
         "Java",
         "Javascript",
-        "Japanese",
-        "Mandarin Chinese"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
+        "Python",
+        "Common Lisp",
+        "Assembly language",
         "MacOS",
         "Windows",
-        "Unix/Linux/Ubuntu",
-        "Git/GitHub"
+        "Unix/Linux/Debian",
+        "Git/GitHub",
+        "Japanese",
+        "Mandarin Chinese"
       ]
     }
   ],
