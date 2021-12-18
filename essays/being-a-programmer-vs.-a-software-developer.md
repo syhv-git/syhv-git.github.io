@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Being a Programmer vs. a Software Developer
+title: Being a programmer vs. a software developer
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-17
 published: true
