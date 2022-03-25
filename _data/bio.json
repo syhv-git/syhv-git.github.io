@@ -6,7 +6,7 @@
     "email": "svore@hawaii.edu",
     "phone": "808-237-9369",
     "website": "https://syhv-git.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in the Summer of 2022.",
+    "summary": "I am studying for a B.A. in Information and Computer Science at the University of Hawaii, with a focus in Security Science. I expect to graduate Spring 2022.",
     "location": {
       "address": "4999 Kahala Ave. Apt. 329",
       "postalCode": "96816",
@@ -95,10 +95,10 @@
         "HTML/CSS",
         "Python",
         "Common Lisp",
-        "Assembly language",
+        "NASM",
         "MacOS",
         "Windows",
-        "Unix/Linux/Debian",
+        "*nix/Debian",
         "Git/GitHub",
         "Japanese",
         "Mandarin Chinese"
@@ -128,6 +128,28 @@
     }
   ],
   "work": [
+    {
+      "company": "NSIN-National Security Innovation Network",
+      "position": "Internship/Technical Lead",
+      "website": "https://www.h4d.us/",
+      "startDate": "2022-01-10",
+      "endDate": "2022-05-13",
+      "summary": "Hacking 4 Defense Program",
+      "highlights": [
+        "Worked in a team of 5 as a startup company to assist the DoD in problem solving and innovation",
+        "Lean startup methodology where we would frequently interact with officers in the U.S Marine Corps",
+        "Developed a minimum viable product for the problem set given to us"
+      ]
+    },
+    {
+      "position": "Private Tutor",
+      "startDate": "2020-08-01",
+      "endDate": "2022-02-01",
+      "summary": "High School Mathematics Tutor",
+      "highlights": [
+        "Worked 1-on-1 with high school students to help them excel in math"
+      ]
+    },
     {
       "company": "Twitch",
       "position": "Affiliate Streamer",
